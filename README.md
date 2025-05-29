@@ -160,7 +160,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 ### Data Science Tools & Methods
 
-[Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
+[Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science) ✅
 
 [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology)
 
